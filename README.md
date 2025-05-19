@@ -7,11 +7,8 @@ vscode, emmits,
 
 #### BIG IDEA
 - http request, server, http response
-
-
-
-
-
+- web hosting service
+- 
 
 
 
