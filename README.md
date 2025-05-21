@@ -4,18 +4,12 @@ htdocs folder
 local host, 
 vscode, emmits, 
 
-
-#### BIG IDEA
-- http request, server, http response
-- web hosting service
-- 
-
-
-
-
-
-
-
+ 
+web base scripting language- clint side script, server side script
+websites - ststic(local html full) and dynamic(admin panel) website
+wordpress cont management system
+(easy, openSource, oop, cressplatform,30%Hcommunity, workAllservers) php--> create dynamic website with db----> web based software application
+CMS, E-commercewebsite, mailServer, chattingSystem, fileStorageSystem, ERP, CRM
 
 
 
