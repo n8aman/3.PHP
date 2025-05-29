@@ -53,6 +53,35 @@ Arrow Functions: A more concise syntax for anonymous functions with a single exp
 
 
 
+# LARAVEL 
+mostuseful php framework, largeCommunity, regularupdate, awsome command lines 
+xampp tool(appache,mysql,phpmyadmin)
+composer(pkg mng mmt tool for libbraries to manage,update,delete,even manages laravel)
+current laravel version 
+- MVC (pattern/structure) followed by laravel
+  model businessLogic, db connection queries n all
+  view user interface look n feel
+  controller toconnect both and handle user request/communication user-> controller-> if view request than directely view. if db related-> user to controller to model to controller to view.
+
+
+- file and folder structure
+  1) composer.jason- details and dependies all details of project
+  2) vendor- all store file
+  3) app- core code of project
+  4) routes-web.php 
+  5) config- database.php,
+  6) database- factories, migrations seedings
+  7) public- 1st file index.php fevicon robost.php(sesrch engine)
+  8) storage- created files excel pdf etc, cache, logs(if error comes)
+  9) test- for dev uniTesting, ModelTesting.
+  10) .env
+  11) composer.lock- maintain hiercrchy of dependencies to sub-dependenciecs used
+  12) viet.config.js- 
+
+
+
+
+
 
 
 
