@@ -76,21 +76,15 @@ current laravel version
   9) test- for dev uniTesting, ModelTesting.
   10) .env
   11) composer.lock- maintain hiercrchy of dependencies to sub-dependenciecs used
-  12) viet.config.js- 
+  12) viet.config.js-
+
+- Routing- url to open a file or path for opening webPage
+
+
+a
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-# Laravel 
-framework
-mvc(model view controller) architecture
+q
