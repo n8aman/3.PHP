@@ -79,9 +79,9 @@ current laravel version
   12) viet.config.js-
 
 - Routing- url to open a file or path for opening webPage
+- 
 
 
-a
 
 
 
